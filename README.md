@@ -1,7 +1,7 @@
 ## Hey! there 
 #### It's Prem Sargara, currently a student, a programmer, a web designer
 ### Currently Learning :
-#### *html* , *css*, *js*, *c++*
+#### *c++*
 ## Interest :
 ##### Machine Learning, Artificial Intelligence and Web Designing
 ----
